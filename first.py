@@ -1,5 +1,5 @@
 def click():
-    print("Click")
+        print("New Screen")
 
 print("test")
 print("test3")
