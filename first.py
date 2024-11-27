@@ -1,4 +1,4 @@
-def click():
+def newscreen():
     print("New Screen")
 
 print("test")
